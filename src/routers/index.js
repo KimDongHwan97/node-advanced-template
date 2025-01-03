@@ -1,3 +1,4 @@
+// 라우터를 관리하는 폴더
 import express from 'express';
 import { authRouter } from './auth.router.js';
 import { usersRouter } from './users.router.js';
